@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Tena Koutou katoa, he akonga ahau ki tenei momo mahi nei.  
+Nui nga akoranga moku k te haramai.  Karawhiua...
